@@ -1,0 +1,13 @@
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\bin\Debug\netcoreapp2.2\Payment_Web_ServerApi.deps.json
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\bin\Debug\netcoreapp2.2\Payment_Web_ServerApi.runtimeconfig.json
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\bin\Debug\netcoreapp2.2\Payment_Web_ServerApi.runtimeconfig.dev.json
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\bin\Debug\netcoreapp2.2\Payment_Web_ServerApi.dll
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.csproj.CoreCompileInputs.cache
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.RazorAssemblyInfo.cache
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.RazorAssemblyInfo.cs
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.AssemblyInfoInputs.cache
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.AssemblyInfo.cs
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.RazorTargetAssemblyInfo.cache
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\bin\Debug\netcoreapp2.2\Payment_Web_ServerApi.pdb
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.dll
+C:\Users\xiang chen\source\repos\PaymentApp\Payment_Web_ServerApi\obj\Debug\netcoreapp2.2\Payment_Web_ServerApi.pdb
